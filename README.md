@@ -8,6 +8,7 @@
 ### 3-arxiv-Wenpeng Yin-Attention-Based Convolutional Neural Network for Machine Comprehension
 
 ### 4-ACL16-Trischler-A Parallel-Hierarchical Model for Machine Comprehension on Sparse
+https://www.aclweb.org/anthology/P/P16/P16-1041.pdf
 
 ### 5-EMNLP16-Jianpeng Cheng-Long Short-Term Memory-Networks for Machine Reading
    http://adsabs.harvard.edu/abs/2016arXiv160106733C
