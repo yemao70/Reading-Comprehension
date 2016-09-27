@@ -1,6 +1,16 @@
 
 ## Reading Comprehension Task
 
+### 1-ICLR16-Facebook-THE GOLDILOCKS PRINCIPLE_ READING CHILDREN’S BOOKS WITH EXPLICIT MEMORY REPRESENTATIONS
+
+### 2-ICLR16-Facebook-MEMORY NETWORKS
+
+### 3-arxiv-Wenpeng Yin-Attention-Based Convolutional Neural Network for Machine Comprehension
+
+### 4-ACL16-Trischler-A Parallel-Hierarchical Model for Machine Comprehension on Sparse
+
+### 5-EMNLP16-Jianpeng Cheng-Long Short-Term Memory-Networks for Machine Reading
+   http://adsabs.harvard.edu/abs/2016arXiv160106733C
 
 ### 6-ACL16-Kadlec-Text Understanding with the Attention Sum Reader Network
   [PDF](http://aclweb.org/anthology/P/P16/P16-1086.pdf)
